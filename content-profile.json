@@ -1,0 +1,177 @@
+{
+  "name": "Alavanca",
+  "slug": "alavanca-yyc",
+  "website": "https://www.alavancayyc.com",
+  "businessType": "Brazilian Jiu-Jitsu, Muay Thai & MMA academy (three locations across Calgary / Airdrie, Alberta)",
+  "tagline": "Decide to Rise",
+  "siteStructure": {
+    "totalPages": 15,
+    "isSinglePage": false,
+    "pages": [
+      { "url": "https://www.alavancayyc.com/", "label": "Home", "slug": "index", "type": "homepage", "screenshotPath": "sites/alavanca-yyc/screenshot-before.png" },
+      { "url": "https://www.alavancayyc.com/services", "label": "Brazilian Jiu-Jitsu", "slug": "services", "type": "services", "screenshotPath": "sites/alavanca-yyc/screenshots/services-before.png" },
+      { "url": "https://www.alavancayyc.com/muay-thai", "label": "Muay Thai", "slug": "muay-thai", "type": "services", "screenshotPath": "sites/alavanca-yyc/screenshots/muay-thai-before.png" },
+      { "url": "https://www.alavancayyc.com/newpage", "label": "MMA", "slug": "mma", "type": "services", "screenshotPath": "sites/alavanca-yyc/screenshots/newpage-before.png" },
+      { "url": "https://www.alavancayyc.com/womens-jiu-jitsu-shawnessy-only", "label": "Women's Jiu-Jitsu (Shawnessy)", "slug": "womens-jiu-jitsu", "type": "services", "screenshotPath": "sites/alavanca-yyc/screenshots/womens-jiu-jitsu-shawnessy-only-before.png" },
+      { "url": "https://www.alavancayyc.com/summer-camps", "label": "Summer Camps", "slug": "summer-camps", "type": "services", "screenshotPath": "sites/alavanca-yyc/screenshots/summer-camps-before.png" },
+      { "url": "https://www.alavancayyc.com/alavanca-hq", "label": "Alavanca HQ (Calgary NE)", "slug": "alavanca-hq", "type": "location", "screenshotPath": "sites/alavanca-yyc/screenshots/alavanca-hq-before.png" },
+      { "url": "https://www.alavancayyc.com/alavanca-hq-shawnessy", "label": "Alavanca Shawnessy", "slug": "alavanca-shawnessy", "type": "location", "screenshotPath": "sites/alavanca-yyc/screenshots/alavanca-hq-shawnessy-before.png" },
+      { "url": "https://www.alavancayyc.com/alavanca-hq-airdrie", "label": "Alavanca Airdrie", "slug": "alavanca-airdrie", "type": "location", "screenshotPath": "sites/alavanca-yyc/screenshots/alavanca-hq-airdrie-before.png" },
+      { "url": "https://www.alavancayyc.com/alavanca-airdire-coaches", "label": "HQ / Airdrie Coaches", "slug": "coaches-hq", "type": "team", "screenshotPath": "sites/alavanca-yyc/screenshots/alavanca-airdire-coaches-before.png" },
+      { "url": "https://www.alavancayyc.com/alavanca-shawnessy-coaches", "label": "Shawnessy Coaches", "slug": "coaches-shawnessy", "type": "team", "screenshotPath": "sites/alavanca-yyc/screenshots/alavanca-shawnessy-coaches-before.png" },
+      { "url": "https://www.alavancayyc.com/memberships", "label": "Memberships", "slug": "memberships", "type": "pricing", "screenshotPath": "sites/alavanca-yyc/screenshots/memberships-before.png" },
+      { "url": "https://www.alavancayyc.com/blog", "label": "Blog", "slug": "blog", "type": "blog", "screenshotPath": "sites/alavanca-yyc/screenshots/blog-before.png" },
+      { "url": "https://www.alavancayyc.com/main-lead-form", "label": "Try a Free Class", "slug": "free-class", "type": "trial", "screenshotPath": "sites/alavanca-yyc/screenshots/main-lead-form-before.png" },
+      { "url": "https://www.alavancayyc.com/contact", "label": "Contact", "slug": "contact", "type": "contact", "screenshotPath": "sites/alavanca-yyc/screenshots/contact-before.png" }
+    ]
+  },
+  "pageContent": {
+    "home": {
+      "heroHeadline": "ALAVANCA — Where Champions Are Forged",
+      "heroSubheadline": "Decide to Rise Today",
+      "heroBodyText": "Welcome to ALAVANCA, where champions are forged! Whether you're a beginner or an experienced fighter, our supportive community and world-class training programs will empower you to become the best version of yourself. Step into the ring and start your journey to greatness at ALAVANCA.",
+      "heroCTA": "Try a Free Class",
+      "secondaryCTA": "Try Your First Class On Us",
+      "programsOverview": [
+        { "name": "Brazilian Jiu-Jitsu", "summary": "Leverage-based ground fighting that lets smaller, technical practitioners overcome bigger opponents. Structured instruction from white belt to black belt." },
+        { "name": "Muay Thai", "summary": "The art of eight limbs — punches, kicks, elbows, and knees in a high-intensity full-body workout. All experience levels welcome, free trial offered." },
+        { "name": "MMA (Mixed Martial Arts)", "summary": "Full-contact combat sport blending Muay Thai, BJJ, and wrestling. Welcoming to any age, gender, or fitness level." }
+      ],
+      "testimonials": [
+        { "quote": "This was my second BJJ gym. The first one I felt like I belonged. Professor Tim is a personal friend now and I feel like I've made some life-long connections here. The average attrition rate from white belt to blue is over 80% — 8 out of 10 people I started with still do BJJ. I think it's because of how the fundamentals are built here and the culture.", "author": "Jerry Guo" },
+        { "quote": "Amazing place for kids and adults. The kids program is high level and the coaches are great with kids. This Jiu-Jitsu program has helped my son with self-defence and self-confidence. I couldn't recommend this place enough. The owner is highly knowledgeable and very down to earth. We love our Alavanca family.", "author": "Sahajvir Randhawa" },
+        { "quote": "I have been training with Tim and everyone at the gym for many years now. I live in Olds, so there are closer gyms but I make the 2 hour round trip for a reason. The instruction is top notch, everyone is friendly & inviting, and the facility is clean and practical. As a 50+ year old who trains regularly, I hope to be on the mats at Alavanca for many years to come.", "author": "Darren McInes" }
+      ],
+      "locationsCallout": [
+        { "name": "Alavanca HQ", "address": "209 16 Ave NE, Calgary, AB T2E 1J9" },
+        { "name": "Alavanca Shawnessy", "address": "14387 Macleod Trail SW, Calgary, AB T2Y 1M7" },
+        { "name": "Alavanca Airdrie", "address": "2920 Kingsview Blvd SE #3153, Airdrie, AB T4A 0A9" }
+      ]
+    },
+    "services": {
+      "heading": "Brazilian Jiu-Jitsu in Calgary",
+      "bodyText": "Brazilian Jiu-Jitsu, often called BJJ, is a martial art and combat sport focused on ground fighting. Originating in Brazil through the Gracie family, BJJ has gained worldwide recognition for its effectiveness in self-defense and mixed martial arts. Unlike other martial arts, BJJ emphasizes leverage and technique — allowing practitioners to overcome bigger, stronger opponents. Whether you're interested in pursuing black belt status or simply looking for a fitness routine that challenges both body and mind, Brazilian Jiu-Jitsu at ALAVANCA offers a safe, clean, and welcoming environment for all ages and backgrounds.",
+      "historySection": "The Gracie family brought Jiu-Jitsu from Japan to Brazil and adapted the techniques to focus on leverage, technique, and using an opponent's strength against them. In the 1990s, through MMA competitions, BJJ gained global recognition. Today it's practiced worldwide, with numerous academies dedicated to honing the art.",
+      "benefits": ["Self-defense you can actually use", "Full-body fitness and cardiovascular endurance", "Mental resilience and problem-solving under pressure", "Community and friendships that last for years", "Structured curriculum from white belt to black belt"]
+    },
+    "muay-thai": {
+      "heading": "Muay Thai in Calgary",
+      "bodyText": "Welcome to ALAVANCA, where champions are made! If you're looking for a high-intensity workout that combines cardio training, skill building, and a safe environment, look no further than our Muay Thai classes. Muay Thai, also known as the art of eight limbs, is a combat sport that originated in Thailand. It involves punches, kicks, elbows, and knees — providing a full-body workout that challenges both physical and mental strength. Whether you're a beginner looking to improve your fitness or a professional fighter honing your skills, our experienced instructors guide you every step of the way. New students are welcome to try a class for free.",
+      "benefits": ["Exceptional physical strength and endurance", "Improved cardio, agility, flexibility, and coordination", "Mental resilience and discipline", "Sportsmanship and respect", "A supportive community of training partners"]
+    },
+    "mma": {
+      "heading": "Mixed Martial Arts in Calgary",
+      "bodyText": "Mixed Martial Arts (MMA) is a dynamic and rapidly growing sport that combines a variety of martial arts disciplines — Muay Thai, Brazilian Jiu-Jitsu, and wrestling. It's a full-contact combat sport that allows competitors to utilize both striking and grappling techniques. Regardless of age, gender, or fitness level, our MMA classes in Calgary provide a welcoming environment where individuals can improve their overall well-being and achieve their personal goals.",
+      "benefits": ["Improved physical fitness, strength, flexibility, and cardiovascular endurance", "Essential self-defense skills for real-life situations", "Discipline cultivated through structured, challenging classes", "Confidence and mental resilience", "A supportive community of training partners"]
+    },
+    "womens-jiu-jitsu": {
+      "heading": "Women's Jiu-Jitsu — Shawnessy Only",
+      "bodyText": "Walking into a gym for the first time can feel intimidating. At Alavanca Shawnessy, our Women's Jiu-Jitsu program is built to be the opposite. From day one, you'll train in a supportive, beginner-friendly environment where questions are encouraged and progress happens at your pace. Our coaches and students are deeply invested in mental growth and physical fitness, helping you feel safe, capable, and confident as you learn something completely new.",
+      "programDetails": "Women's Jiu-Jitsu — Tuesday evenings 7:15 – 8:30 PM at our Shawnessy location. Designed specifically for women ages 14+, with a beginner-friendly environment focused on confidence, fitness, and personal growth.",
+      "keyPoints": [
+        { "title": "Confidence that carries into everyday life", "body": "You won't be thrown into the deep end. Classes are structured so you can train with partners of similar size and strength, creating a comfortable learning experience where technique matters more than power." },
+        { "title": "Strength, fitness, and empowerment without intimidation", "body": "An encouraging community of women building real skill together." },
+        { "title": "More than training, it's a path to growth", "body": "Mental growth alongside physical fitness, for women at every stage of life." }
+      ]
+    },
+    "summer-camps": {
+      "heading": "Alavanca Summer Camps",
+      "subheading": "Alavanca Kids Summer Camp: Unleash Adventure and Learning!",
+      "bodyText": "This summer, from July 8th to 12th, Alavanca invites your child to embark on an unforgettable journey at our exclusive kids' summer camp. Nestled in Airdrie, inner-city Calgary, and Shawnessy, our camp promises an extraordinary blend of fun, learning, and adventure.",
+      "features": [
+        { "title": "Martial Arts Mastery with Expert Coaches", "body": "Skilled coaches introduce your child to the world of martial arts. Daily sessions led by experienced instructors teach discipline, focus, and self-defense in a safe, supportive environment." },
+        { "title": "Thematic Exploration and Educational Excursions", "body": "Each week comes with a unique theme paired with educational components — from the mysteries of nature to the wonders of science. Learning never stops, even during summer break." },
+        { "title": "Safety-First Environment with Caring Staff", "body": "Every camper trains in a monitored, supportive environment with small group ratios and instructors trained to keep kids safe while they grow." }
+      ]
+    },
+    "alavanca-hq": {
+      "heading": "Alavanca HQ — Calgary NE",
+      "address": "209 16 Ave NE, Calgary, AB T2E 1J9",
+      "bodyText": "Welcome to ALAVANCA — where we don't just teach martial arts, we inspire a lifestyle. At the heart of our ethos is the potent phrase: Decide to Rise. We believe everyone possesses the potential to transcend their limitations and achieve greatness. Situated at 209 16 Ave NE, our gym is a sanctuary for those thirsty for strength, resilience, and discipline. Our expert trainers are masters in Brazilian Jiu-Jitsu, Muay Thai, and Mixed Martial Arts. We offer classes from early morning to evening to accommodate the bustling schedules of our members — adult and children's classes alike.",
+      "scheduleSampleNote": "Live class schedule includes NoGi, Combat Conditioning Bootcamp, Kids Muay Thai, Muay Thai, BJJ, Kids BJJ, Tiny Warriors (3–6 yo), and more throughout the day."
+    },
+    "alavanca-shawnessy": {
+      "heading": "Alavanca Shawnessy",
+      "address": "14387 Macleod Trail SW, Calgary, AB T2Y 1M7",
+      "bodyText": "Welcome to ALAVANCA Shawnessy — where we don't just teach martial arts, we inspire a lifestyle. At the heart of our ethos is the potent phrase: Decide to Rise. We believe everyone possesses the potential to transcend their limitations and achieve greatness. Situated at 14387 Macleod Trail SW, our gym is a sanctuary for those thirsty for strength, resilience, and discipline. Adult and children's classes, plus our Women's-Only BJJ program, make this location a true community hub in south Calgary.",
+      "scheduleSampleNote": "Live class schedule includes Tiny Warriors (3–6 yo), Kids Muay Thai, BJJ, Women's-Only BJJ, and adult classes throughout the week."
+    },
+    "alavanca-airdrie": {
+      "heading": "Alavanca Airdrie",
+      "address": "2920 Kingsview Blvd SE #3153, Airdrie, AB T4A 0A9",
+      "bodyText": "Welcome to ALAVANCA Airdrie — where we don't just teach martial arts, we inspire a lifestyle. Decide to Rise. Situated at 2920 Kingsview Blvd SE #3153, our Airdrie gym brings the same expert instruction in Brazilian Jiu-Jitsu, Muay Thai, and MMA as our Calgary locations — close to home for families north of the city. Adult and children's classes fit into the bustling schedules of our members."
+    },
+    "coaches-hq": {
+      "heading": "Alavanca HQ & Airdrie Coaching Staff",
+      "sectionHeadings": ["Brazilian Jiu-Jitsu Coaches", "Muay Thai Coaches", "MMA Coaches"],
+      "introText": "Ground game gurus: our Calgary Brazilian Jiu-Jitsu faculty. Our coaching team at HQ and Airdrie blends decades of mat time with a teaching style that grows students from their first class all the way to black belt. Every coach is vetted for technical skill AND the patience to bring beginners along."
+    },
+    "coaches-shawnessy": {
+      "heading": "Alavanca Shawnessy Coaching Staff",
+      "address": "14387 Macleod Trail SW",
+      "sectionHeadings": ["Brazilian Jiu-Jitsu Coaches", "Muay Thai Coaches"],
+      "introText": "Meet the coaches at our Shawnessy location. BJJ, Muay Thai, and our Women's-Only BJJ program are led by instructors who prioritize technique and a welcoming room over ego."
+    },
+    "memberships": {
+      "heading": "Memberships",
+      "subheading": "Are You Ready to Dive Right In?",
+      "bodyText": "We offer a variety of membership options to suit any budget. We are committed to making premium martial arts and self-defence training accessible without sacrificing quality. Book a tour, claim your free trial class, and talk with a coach about which program fits your goals.",
+      "placeholderPricingNote": "Actual pricing tiers are not published on the current site. The redesign will leave a pricing placeholder section (Foundational / All-Access / Family) that the owner can drop real numbers into before launch."
+    },
+    "free-class": {
+      "heading": "Try A Free Class",
+      "bodyText": "Click the button below, fill out the short form, and we'll get you scheduled for your first class on us. Pick BJJ, Muay Thai, MMA, or our Kids program — all three locations welcome trial students."
+    },
+    "blog": {
+      "heading": "Alavanca Blog — Tips for Success",
+      "placeholderNote": "Current blog has no indexed posts yet. The redesign will build a clean blog template ready for future posts — no phantom blog content generated."
+    },
+    "contact": {
+      "heading": "Contact",
+      "phone": "1-587-742-0556",
+      "email": "info@alavancayyc.com",
+      "locations": [
+        { "name": "Alavanca HQ (Calgary NE)", "address": "209 16 Ave NE, Calgary, AB T2E 1J9" },
+        { "name": "Alavanca Shawnessy", "address": "14387 Macleod Trail SW, Calgary, AB T2Y 1M7" },
+        { "name": "Alavanca Airdrie", "address": "2920 Kingsview Blvd SE #3153, Airdrie, AB T4A 0A9" }
+      ]
+    }
+  },
+  "programsList": [
+    "Adult Brazilian Jiu-Jitsu (Gi & NoGi)",
+    "Kids Brazilian Jiu-Jitsu",
+    "Tiny Warriors (ages 3–6)",
+    "Adult Muay Thai",
+    "Kids Muay Thai",
+    "MMA (Mixed Martial Arts)",
+    "Women's-Only BJJ (Shawnessy)",
+    "Combat Conditioning Bootcamp",
+    "Summer Camps (Kids)"
+  ],
+  "socialMedia": {
+    "instagram": "https://instagram.com/alavancahq/",
+    "youtube": "https://www.youtube.com/@AlavancaHQ",
+    "facebook": "https://www.facebook.com/AlavancaYYC"
+  },
+  "brandColors": ["#223855", "#463939", "#1E1E1E", "#587291", "#EFEFEF", "#FFFFFF"],
+  "brandColorRoles": {
+    "primary": "#223855",
+    "secondary": "#1E1E1E",
+    "accent": "#587291",
+    "background": "#EFEFEF",
+    "textDark": "#1E1E1E",
+    "textLight": "#FFFFFF",
+    "note": "The current site's dominant non-neutral color is a dark navy slate (#223855) used on H1 headings, with a lighter navy (#587291) as a supporting accent. The palette is conservative and under-leveraged — brand-analysis step should propose an electric accent (orange, crimson, or electric yellow) to modernize it for a combat-sports brand."
+  },
+  "logoUrl": "https://lirp.cdn-website.com/2d0a5cf3/dms3rep/multi/opt/Alavanca_Logo_Landscape_Wht-1920w.png?dm-skip-opt=true",
+  "existingImages": {
+    "logo": { "found": true, "url": "https://lirp.cdn-website.com/2d0a5cf3/dms3rep/multi/opt/Alavanca_Logo_Landscape_Wht-1920w.png?dm-skip-opt=true", "format": "PNG", "notes": "Landscape white lockup. User should provide a higher-res original + dark version." },
+    "team": [],
+    "gallery": { "count": 0, "appearsReal": false, "note": "No dedicated gallery page on current site." },
+    "facility": { "count": 0, "description": "Coaches pages exist but photos were not scraped — redesign will use stock combat-sports imagery and ask the user for real coach + facility shots before deploy." }
+  },
+  "designRecommendation": "performance-athletic-skill",
+  "designRecommendationReason": "Modern, multi-location, family-accessible combat sports academy (BJJ + Muay Thai + MMA + kids + women's programs) with a strong tagline (\"Decide to Rise\") and broad audience. Best default for combat-sports clients that aren't pure pro-fighter teams or heritage academies. Performance-athletic brings bold sportswear-brand energy — kinetic marquees, one electric accent, athletic typography — without overshadowing the family-friendly positioning.",
+  "currentSiteIssues": "Built on a generic site-builder template (Duda-style) — conservative navy/gray palette, weak visual identity, no hero photography. Navigation is cluttered with 15 items including confusingly named pages ('newpage' for MMA, 'alavanca-airdire-coaches' with a typo, three overlapping 'HQ' pages). Mapbox map blocks dominate the homepage where hero imagery should live. No visible pricing on memberships page. Blog exists but has no posts. Weak mobile-first hierarchy. Brand tagline 'Decide to Rise' is under-used — it should anchor the hero.",
+  "competitiveContext": "Calgary BJJ/MMA market is competitive (Infighting, Sublime BJJ, Team Fearless, etc.) — Alavanca's differentiators are three locations, Gracie lineage mentioned in copy, a dedicated women's program, and long-tenured students (10+ year members in testimonials). The redesign should lead with these."
+}

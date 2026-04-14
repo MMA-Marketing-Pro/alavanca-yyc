@@ -1,0 +1,11 @@
+.DS_Store
+*.log
+node_modules/
+.env
+.env.local
+
+# Scan-phase artifacts — not part of deployable site
+content/
+screenshots/
+pages.json
+screenshot-before.png

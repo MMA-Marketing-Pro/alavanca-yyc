@@ -1,0 +1,63 @@
+{
+  "slug": "alavanca-yyc",
+  "name": "Alavanca",
+  "originalColors": ["#223855", "#463939", "#1E1E1E", "#587291", "#EFEFEF", "#FFFFFF"],
+  "originalRoles": {
+    "primary": "#223855",
+    "secondary": "#1E1E1E",
+    "accent": "#587291",
+    "background": "#EFEFEF",
+    "textDark": "#1E1E1E"
+  },
+  "colorAudit": {
+    "contrastIssues": [
+      "#587291 (accent) on #EFEFEF bg → 3.8:1 — fails WCAG AA for body text (needs 4.5:1), passes only for 18pt+ bold",
+      "#463939 warm gray conflicts tonally with #223855 cool navy — two dark neutrals fighting for the same role"
+    ],
+    "harmonyType": "fractured-cool — navy primary (#223855) with no true accent, supported by unrelated warm gray (#463939)",
+    "hierarchyStatus": "weak — no single dominant brand color wins. Primary navy is used only for H1s, buttons default to generic dark gray, no true accent color exists to drive CTAs",
+    "saturationNotes": "Entire palette is under-saturated and low-energy — wrong temperature for a combat-sports brand. No heat, no urgency, nothing that says 'fight gym.'",
+    "modeMismatch": "Current site uses light gray (#EFEFEF) bg, but the positioning is combat sports / 'Decide to Rise' / champions forged — this calls for a dark, high-contrast treatment, not a corporate light gray. The current light mode is the primary visual problem."
+  },
+  "correctionStrategy": "Keep Alavanca's navy (#223855) as the foundation of identity — deepen it into the background system so the brand color carries through the whole site instead of just H1s. Flip from light to dark mode (Rule 4 exception: the current light palette is clearly broken for a combat-sports brand). Introduce an electric amber accent as the 'one electric accent' that performance-athletic-skill requires — amber sits near-complementary to cool navy on the color wheel, giving the sportswear-brand warm/cool split that reads as high-energy athletic.",
+  "mode": "dark",
+  "correctedPalette": {
+    "--bg": "#0A1220",
+    "--bg-card": "#15243D",
+    "--bg-elevated": "#1E3152",
+    "--text-primary": "#F5F7FA",
+    "--text-muted": "#8B9AB0",
+    "--text-strong": "#FFFFFF",
+    "--border": "#263B5C",
+    "--accent": "#F59E0B",
+    "--accent-hover": "#D97706",
+    "--accent-subtle": "rgba(245, 158, 11, 0.12)",
+    "--accent-glow": "rgba(245, 158, 11, 0.35)",
+    "--brand-navy": "#223855",
+    "--brand-navy-light": "#587291"
+  },
+  "contrastVerification": {
+    "text-primary-on-bg": "17.2:1 — AAA pass",
+    "text-muted-on-bg": "7.1:1 — AAA pass (body)",
+    "accent-on-bg": "9.2:1 — AAA pass (large text + UI), AA pass (body)",
+    "bg-on-accent-button": "9.2:1 — button text (dark on amber) reads clean",
+    "border-on-bg": "1.4:1 — decorative only (OK, borders are not text)"
+  },
+  "colorShifts": [
+    "Flipped light → dark mode. Current #EFEFEF bg was fighting the combat-sports positioning; deep navy-tinted black (#0A1220) reads serious, athletic, and lets photography pop.",
+    "Preserved Alavanca's existing navy (#223855) as the card / elevated surface color — their brand color now carries through every section, not just H1s.",
+    "Introduced electric amber (#F59E0B) as the new accent. This IS a new color (the original palette had no true accent), but it's chosen as a near-complement to navy — a classic sportswear warm/cool pairing (think Under Armour, New Balance running). Signals energy, urgency, 'Decide to Rise.'",
+    "Dropped the warm gray (#463939) — it was tonally fighting the navy and added nothing. Cleaner to use navy as the only dark color family.",
+    "Kept the existing lighter navy (#587291) as --brand-navy-light for subtle hover tints and secondary accents so it still feels like Alavanca."
+  ],
+  "fontRecommendation": {
+    "code": "performance-athletic default",
+    "display": "Bold compressed display — Anton, Archivo Black, or Bebas Neue — uppercase, tight tracking, for headlines like 'DECIDE TO RISE' and 'CHAMPIONS FORGED'",
+    "body": "Inter 400–700 or Manrope — clean modern sans, 15–17px body size",
+    "numeric": "Tabular numbers for class schedules / location cards",
+    "reasoning": "Performance-athletic-skill mandates a bold sportswear-brand type system: display sans in compressed caps for kinetic marquees and hero, readable humanist sans for body. Keeps the 'athletic brand' feeling without leaning into fight-poster brutalism or heritage serif territory."
+  },
+  "designStyle": "performance-athletic-skill",
+  "cssBlock": ":root {\n  --bg: #0A1220;\n  --bg-card: #15243D;\n  --bg-elevated: #1E3152;\n  --text-primary: #F5F7FA;\n  --text-muted: #8B9AB0;\n  --text-strong: #FFFFFF;\n  --border: #263B5C;\n  --accent: #F59E0B;\n  --accent-hover: #D97706;\n  --accent-subtle: rgba(245, 158, 11, 0.12);\n  --accent-glow: rgba(245, 158, 11, 0.35);\n  --brand-navy: #223855;\n  --brand-navy-light: #587291;\n}",
+  "identityCheck": "The brand still reads as Alavanca — their navy is everywhere (backgrounds, cards, elevated surfaces, hover states). What's new is the amber accent that pushes CTAs and kinetic moments, and the dark mode treatment that matches combat-sports positioning. If you put this next to their current site, a member would recognize it immediately as a deeper, more confident version of the same brand."
+}

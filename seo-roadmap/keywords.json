@@ -1,0 +1,109 @@
+{
+  "business": {
+    "name": "Alavanca",
+    "domain": "alavancayyc.com",
+    "primaryCity": "Calgary",
+    "province": "Alberta",
+    "country": "Canada",
+    "locations": [
+      { "name": "Alavanca HQ",        "neighborhood": "Bridgeland / NE Calgary", "address": "209 16 Ave NE, Calgary, AB T2E 1J9" },
+      { "name": "Alavanca Shawnessy", "neighborhood": "Shawnessy / SW Calgary",  "address": "14387 Macleod Trail SW, Calgary, AB T2Y 1M7" },
+      { "name": "Alavanca Airdrie",   "neighborhood": "Kingsview / Airdrie",      "address": "2920 Kingsview Blvd SE #3153, Airdrie, AB T4A 0A9" }
+    ]
+  },
+  "neighborhoods": {
+    "ne_calgary_anchor_hq": [
+      "Bridgeland", "Renfrew", "Crescent Heights", "Mount Pleasant", "Tuxedo Park",
+      "Ramsay", "Inglewood", "Forest Lawn", "Marlborough", "Sunnyside",
+      "Downtown Calgary", "Beltline"
+    ],
+    "sw_calgary_anchor_shawnessy": [
+      "Shawnessy", "Midnapore", "Millrise", "Sundance", "McKenzie Towne",
+      "Cranston", "Auburn Bay", "Seton", "Chaparral", "Walden", "Legacy",
+      "Evergreen", "Somerset", "Bridlewood", "Silverado"
+    ],
+    "airdrie_anchor_airdrie": [
+      "Kingsview", "Bayside", "Luxstone", "Cooper's Crossing", "Ridgegate",
+      "Sagewood", "Southwinds", "Prairie Springs"
+    ],
+    "nearby_towns": [
+      "Cochrane", "Chestermere", "Okotoks", "Strathmore", "Olds",
+      "High River", "Crossfield", "Irricana", "Carstairs", "Didsbury"
+    ]
+  },
+  "services": [
+    { "slug": "brazilian-jiu-jitsu",    "label": "Brazilian Jiu-Jitsu",         "parent": "brazilian-jiu-jitsu.html" },
+    { "slug": "bjj",                    "label": "BJJ",                          "parent": "brazilian-jiu-jitsu.html", "note": "Use 'BJJ' shorthand on half of location pages to capture both query variants." },
+    { "slug": "kids-bjj",               "label": "Kids Brazilian Jiu-Jitsu",    "parent": "brazilian-jiu-jitsu.html" },
+    { "slug": "tiny-warriors",          "label": "Tiny Warriors (Ages 3–6)",    "parent": "brazilian-jiu-jitsu.html" },
+    { "slug": "no-gi-bjj",              "label": "No-Gi Jiu-Jitsu",             "parent": "brazilian-jiu-jitsu.html" },
+    { "slug": "muay-thai",              "label": "Muay Thai",                    "parent": "muay-thai.html" },
+    { "slug": "kids-muay-thai",         "label": "Kids Muay Thai",               "parent": "muay-thai.html" },
+    { "slug": "kickboxing",             "label": "Kickboxing",                   "parent": "muay-thai.html", "note": "Kickboxing-adjacent searchers looking for striking — route them to Muay Thai." },
+    { "slug": "mma",                    "label": "MMA (Mixed Martial Arts)",    "parent": "mma.html" },
+    { "slug": "womens-bjj",             "label": "Women's Jiu-Jitsu",           "parent": "womens-jiu-jitsu.html" },
+    { "slug": "self-defense",           "label": "Self-Defense Classes",         "parent": "brazilian-jiu-jitsu.html" },
+    { "slug": "combat-conditioning",    "label": "Combat Conditioning Bootcamp", "parent": "alavanca-hq.html" }
+  ],
+  "personas": [
+    { "slug": "kids",          "label": "Kids (Ages 6–12)" },
+    { "slug": "teens",         "label": "Teens (Ages 13–17)" },
+    { "slug": "beginners",     "label": "Beginners" },
+    { "slug": "women",         "label": "Women" },
+    { "slug": "adults-over-40","label": "Adults Over 40" },
+    { "slug": "adults-over-50","label": "Adults Over 50" },
+    { "slug": "fitness",       "label": "Fitness / Weight Loss" },
+    { "slug": "self-defense",  "label": "Self-Defense" },
+    { "slug": "competitors",   "label": "Competitors" },
+    { "slug": "office-workers","label": "Office Workers" }
+  ],
+  "curationTerms": [
+    "Best BJJ Gym in Calgary",
+    "Best Muay Thai Gym in Calgary",
+    "Best MMA Gym in Calgary",
+    "Best Kids Martial Arts School in Calgary",
+    "Best Women's Jiu-Jitsu in Calgary",
+    "Best Martial Arts Summer Camp in Calgary",
+    "Best BJJ Gym in Airdrie",
+    "Best Martial Arts School in Airdrie"
+  ],
+  "comparisons": [
+    "BJJ vs Wrestling",
+    "BJJ vs Judo",
+    "Gi vs No-Gi BJJ",
+    "Muay Thai vs Kickboxing",
+    "Muay Thai vs Boxing",
+    "MMA vs Muay Thai",
+    "BJJ vs Karate (for kids)"
+  ],
+  "glossaryTerms": [
+    { "slug": "what-is-bjj",                      "title": "What Is Brazilian Jiu-Jitsu?" },
+    { "slug": "what-is-muay-thai",                "title": "What Is Muay Thai?" },
+    { "slug": "what-is-mma",                      "title": "What Is MMA?" },
+    { "slug": "what-is-no-gi-jiu-jitsu",          "title": "What Is No-Gi Jiu-Jitsu?" },
+    { "slug": "bjj-belt-ranks",                   "title": "BJJ Belt Ranks Explained" },
+    { "slug": "how-long-blue-belt",               "title": "How Long Does It Take To Get a Blue Belt?" },
+    { "slug": "what-to-wear-bjj",                 "title": "What To Wear To Your First BJJ Class" },
+    { "slug": "what-to-wear-muay-thai",           "title": "What To Wear To Your First Muay Thai Class" },
+    { "slug": "what-age-kids-bjj",                "title": "What Age Can My Kid Start BJJ?" },
+    { "slug": "what-is-a-gi",                     "title": "What Is a BJJ Gi?" },
+    { "slug": "bjj-positions-beginners",          "title": "Basic BJJ Positions Every Beginner Should Know" },
+    { "slug": "what-is-rolling-bjj",              "title": "What Is 'Rolling' In Jiu-Jitsu?" },
+    { "slug": "what-is-sparring-muay-thai",       "title": "What Is Sparring in Muay Thai?" },
+    { "slug": "clinch-muay-thai",                 "title": "The Muay Thai Clinch Explained" },
+    { "slug": "mma-vs-traditional-martial-arts",  "title": "MMA vs Traditional Martial Arts: What Actually Works" },
+    { "slug": "bjj-for-self-defense",             "title": "Is BJJ Good for Self-Defense?" },
+    { "slug": "muay-thai-for-weight-loss",        "title": "Muay Thai for Weight Loss: What To Expect" },
+    { "slug": "how-often-to-train-bjj",           "title": "How Often Should You Train BJJ as a Beginner?" },
+    { "slug": "bjj-grading-system",               "title": "BJJ Grading System: Stripes, Belts, and Promotions" },
+    { "slug": "bjj-benefits-kids",                "title": "The Benefits of BJJ for Kids" }
+  ],
+  "urlStructure": {
+    "locations":  "/locations/{city}/{neighborhood}/{service}.html    — e.g., /locations/calgary/bridgeland/brazilian-jiu-jitsu.html",
+    "personas":   "/programs/{service}-for-{persona}.html              — e.g., /programs/bjj-for-adults-over-40.html",
+    "best":       "/guides/best-{service}-in-{city}.html               — e.g., /guides/best-bjj-gym-in-calgary.html",
+    "glossary":   "/learn/{term-slug}.html                             — e.g., /learn/what-is-bjj.html",
+    "comparisons":"/compare/{term-slug}.html                           — e.g., /compare/bjj-vs-wrestling.html",
+    "pricing":    "/memberships/{offer-slug}.html                      — e.g., /memberships/family-pricing.html"
+  }
+}
